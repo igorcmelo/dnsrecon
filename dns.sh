@@ -40,7 +40,7 @@ function utilizacao() {
 	echo -e "	${NORMAL}$0 <domínio> <wordlist>${NEGRITO}"
 	echo -e ""
 	echo -e "	exemplos de domínio:	${NORMAL}google.com, facebook.com, yahoo.com, medium.com${NEGRITO}"
-	echo -e "	wordlist sugerida:	${NORMAL}lista.txt <www.github.com/igorcmelo/dnsrecon/lista.txt>"
+	echo -e "	wordlist sugerida:	${NORMAL}lista.txt <www.github.com/igorcmelo/dnsrecon/blob/master/lista.txt>"
 	echo -e ""
 	exit 1
 }
